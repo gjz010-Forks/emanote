@@ -328,6 +328,22 @@
         "type": "github"
       }
     },
+    "hfsnotify": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1711728077,
+        "narHash": "sha256-Cu68q7n2vP8RIat1sIOL3q8MP5uXbFe4IHHTchmR2kc=",
+        "owner": "gjz010-Forks",
+        "repo": "hfsnotify",
+        "rev": "c1d2817614eaba6f03b1022635b2cdc1474d28e8",
+        "type": "github"
+      },
+      "original": {
+        "owner": "gjz010-Forks",
+        "repo": "hfsnotify",
+        "type": "github"
+      }
+    },
     "nixpkgs": {
       "locked": {
         "lastModified": 1704842529,
@@ -406,6 +422,7 @@
         "flake-root": "flake-root_2",
         "haskell-flake": "haskell-flake_2",
         "heist-extra": "heist-extra_2",
+        "hfsnotify": "hfsnotify",
         "nixpkgs": "nixpkgs_2",
         "systems": "systems_2",
         "treefmt-nix": "treefmt-nix_2",
@@ -503,15 +520,15 @@
     "unionmount_2": {
       "flake": false,
       "locked": {
-        "lastModified": 1710078535,
-        "narHash": "sha256-gKBgBtuiRTD3/3EeY8aMgFzuaSEffJacBxsCB3ct1eg=",
-        "owner": "srid",
+        "lastModified": 1711729780,
+        "narHash": "sha256-hBAL8eHr12H6kDySQc0HEJSG6vgTEcCIHVCks3g/PG8=",
+        "owner": "gjz010-Forks",
         "repo": "unionmount",
-        "rev": "41ae982fa118770bf4d3a3f2d48ac1ffb61c9f09",
+        "rev": "051fc0bdfcd2a2922a159e57f82307f497415382",
         "type": "github"
       },
       "original": {
-        "owner": "srid",
+        "owner": "gjz010-Forks",
         "repo": "unionmount",
         "type": "github"
       }
